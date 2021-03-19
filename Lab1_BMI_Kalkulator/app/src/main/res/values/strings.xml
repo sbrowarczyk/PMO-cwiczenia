@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">BMI Calculator</string>
     <string name="countBtnMessage">Policz</string>
-    <string name="inputWeightEditTextMessage">Wprowadz wage</string>
-    <string name="inputHeightEditTextMessage">Wprowadz wzrost</string>
+    <string name="inputWeightEditTextMessage">Wprowadz wage(kg)</string>
+    <string name="inputHeightEditTextMessage">Wprowadz wzrost(cm)</string>
+    <string name="scoreBmiMessage">Bmi = </string>
 </resources>
