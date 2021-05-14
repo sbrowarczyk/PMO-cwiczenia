@@ -4,10 +4,10 @@ plugins {
 
 android {
     compileSdkVersion 30
-    buildToolsVersion "30.0.3"
+    buildToolsVersion '24.0.3'
 
     defaultConfig {
-        applicationId "pl.pamo"
+        applicationId "pamo"
         minSdkVersion 22
         targetSdkVersion 30
         versionCode 1

@@ -7,24 +7,24 @@
 
     <fragment
         android:id="@+id/navigation_bmi_calculator"
-        android:name="pl.pamo.ui.bmicalculator.BmiCalculatorFragment"
+        android:name="ui.bmicalculator.BmiCalculatorFragment"
         android:label="@string/title_bmi_calculator"
         tools:layout="@layout/fragment_bmi_calculator" />
     <fragment
         android:id="@+id/navigation_harris_benedict_calculator"
-        android:name="pl.pamo.ui.bmrcalculator.BmrCalculator"
+        android:name="ui.bmrcalculator.BmrCalculator"
         android:label="@string/title_harris_benedict_calculator"
         tools:layout="@layout/fragment_bmi_calculator" />
 
     <fragment
         android:id="@+id/navigation_quiz"
-        android:name="pl.pamo.ui.quiz.QuizFragment"
+        android:name="ui.quiz.QuizFragment"
         android:label="@string/title_quiz"
         tools:layout="@layout/fragment_quiz" />
 
     <fragment
         android:id="@+id/navigation_charts"
-        android:name="pl.pamo.ui.chart.ChartFragment"
+        android:name="ui.chart.ChartFragment"
         android:label="@string/title_charts"
         tools:layout="@layout/fragment_charts" />
 </navigation>

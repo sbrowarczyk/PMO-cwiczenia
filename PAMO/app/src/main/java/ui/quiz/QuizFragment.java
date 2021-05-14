@@ -1,4 +1,4 @@
-package pl.pamo.ui.quiz;
+package ui.quiz;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -14,8 +14,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import pl.pamo.R;
-//import pl.pamo.databinding.FragmentDashboardBinding;
+import ui.R;
 
 public class QuizFragment extends Fragment {
 

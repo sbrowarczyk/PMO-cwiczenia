@@ -1,4 +1,4 @@
-package pl.pamo.ui.quiz;
+package ui.quiz;
 
 public enum Questions {
 
