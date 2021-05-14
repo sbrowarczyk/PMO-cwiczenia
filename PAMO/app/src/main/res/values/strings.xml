@@ -1,0 +1,21 @@
+<resources>
+    <string name="final_points_message">Final points:</string>
+    <string name="points_message">Points: </string>
+    <string name="app_name">PAMO</string>
+    <string name="title_bmi_calculator">BMI Calculator</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_charts">Charts</string>
+    <string name="title_harris_benedict_calculator">BMR Calculator</string>
+    <string name="count_btn_message">Calculate</string>
+    <string name="input_weight_message">weight</string>
+    <string name="input_height_Message">height</string>
+    <string name="score_bmi_message">"Bmi = "</string>
+    <string name="first_recipe">"Bmi = "</string>
+    <string name="input_age_message">age</string>
+    <string name="score_bmr_message">"BMR = "</string>
+    <string-array name="gender_list">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
